@@ -2,7 +2,7 @@ nes (8 sloc)  785 Bytes
 
 # Hallo There 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=FLAMEZOMBIE&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=dexyarya&show_icons=true&theme=radical)
 
 # About Me :tada:
 
